@@ -29,3 +29,7 @@ def evaluate_expression():
         print(power(a,b))
     elif choice == 7:
         print(sin(a))
+
+
+if __name__ == "__main__":
+    evaluate_expression()
